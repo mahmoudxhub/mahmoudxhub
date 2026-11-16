@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="64" viewBox="0 0 1000 64">
+<defs><linearGradient id="a" x1="1" x2="0"><stop offset="0" stop-color="#36bcf7"/><stop offset="1" stop-color="#36bcf7" stop-opacity="0"/></linearGradient><linearGradient id="b" x1="0" x2="1"><stop offset="0" stop-color="#36bcf7"/><stop offset="1" stop-color="#36bcf7" stop-opacity="0"/></linearGradient></defs>
+<rect x="106" y="31" width="300" height="2" fill="url(#a)"><animate attributeName="opacity" values=".4;1;.4" dur="3s" repeatCount="indefinite"/></rect>
+<rect x="594" y="31" width="300" height="2" fill="url(#b)"><animate attributeName="opacity" values=".4;1;.4" dur="3s" repeatCount="indefinite"/></rect>
+<rect x="400" y="26" width="10" height="10" rx="2" fill="#36bcf7" transform="rotate(45 405 31)"><animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></rect>
+<rect x="590" y="26" width="10" height="10" rx="2" fill="#36bcf7" transform="rotate(45 595 31)"><animate attributeName="opacity" values="1;.3;1" dur="2s" begin="-1s" repeatCount="indefinite"/></rect>
+<text x="500" y="40" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="24" font-weight="800" fill="#e6f6ff" letter-spacing="5">ABOUT ME</text></svg>
